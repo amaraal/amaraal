@@ -20,7 +20,7 @@
 ## como falar comigo:
 - [twitter](https://twitter.com/pedr_amaral)
 - discord: amaral#2122
-- 
+
 ---
 
 | 🎵 tocando                                                                                                                     |
