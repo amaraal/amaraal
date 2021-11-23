@@ -1,19 +1,23 @@
-### 👋
+# grande nerd; aka pedro amaral 
 
+## estou 
+- fazendo o trabalho final do curso técnico 
+- tentando passar em uma faculdade
+- aprendendo a desenvolver coisas no ps1
+- fuçando o blender
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## linguagens e tecnologias que acho legais
+- typescript
+- javascript
+- react
+- node
+- kotlin
+- mongodb
+- python
+- processing
 
-<!--
-**amaraal/amaraal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaraal&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## como falar comigo:
+- [twitter](https://twitter.com/pedr_amaral)
+- discord: amaral#2122
