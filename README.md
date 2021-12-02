@@ -1,9 +1,9 @@
 # grande nerd; aka pedro amaral 
 ## estou 
-- fazendo o trabalho final do curso técnico 
-- tentando passar em uma faculdade
-- aprendendo a desenvolver coisas no ps1
-- fuçando o blender
+- [x] [fazendo o trabalho final do curso técnico](https://github.com/CeosPlataforma/ceos)
+- [ ] tentando passar em uma faculdade
+- [ ] aprendendo a desenvolver coisas no ps1
+- [ ] fuçando o blender
 
 ## linguagens e tecnologias que acho legais
 - typescript
