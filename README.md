@@ -1,11 +1,7 @@
-# grande nerd; aka pedro amaral 
-## estou 
-- [x] [fazendo o trabalho final do curso técnico](https://github.com/CeosPlataforma/ceos)
-- [ ] tentando passar em uma faculdade
-- [ ] aprendendo a desenvolver coisas no ps1
-- [ ] fuçando o blender
+## projetos que já conclui 
+- [trabalho final do curso técnico](https://github.com/CeosPlataforma/ceos)
 
-## linguagens e tecnologias que acho legais
+## linguagens e tecnologias
 - typescript
 - javascript
 - react
@@ -20,30 +16,3 @@
 ## como falar comigo:
 - [twitter](https://twitter.com/pedr_amaral)
 - discord: amaral#2122
-
----
-
-| 🎵 tocando                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://now-playing-amaraal.vercel.app/now-playing?open"><img src="https://now-playing-amaraal.vercel.app/now-playing" width="540" height="64"></a> |
-
-<table>
-  <thead>
-    <tr>
-      <th>📈 top musicas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://now-playing-amaraal.vercel.app/top-tracks?i=1&open"><img src="https://now-playing-amaraal.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://now-playing-amaraal.vercel.app/top-tracks?i=2&open"><img src="https://now-playing-amaraal.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://now-playing-amaraal.vercel.app/top-tracks?i=3&open"><img src="https://now-playing-amaraal.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
