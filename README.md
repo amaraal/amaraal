@@ -1,5 +1,5 @@
 ## projetos que já conclui 
-- [trabalho final do curso técnico](https://github.com/CeosPlataforma/ceos)
+- [trabalho final do curso técnico](https://github.com/amaraal/ceos)
 
 ## linguagens e tecnologias
 - typescript
